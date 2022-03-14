@@ -7,9 +7,9 @@
 
 <p align="right"> <a href="https://twitter.com/selimbahcvan" target="blank"><img src="https://img.shields.io/twitter/follow/selimbahcvan?logo=twitter&style=for-the-badge" alt="selimbahcvan" /></a> </p>
 
-                                                                                                          - 🌱 I’m currently learning **Java**
+                                                                       - 🌱 I’m currently learning **Java**
 
-                                                                                                          - 📫 How to reach me **y.selimbahcivan@gmail.com**
+                                                                       - 📫 How to reach me **y.selimbahcivan@gmail.com**
 
 
 
