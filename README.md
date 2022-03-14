@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **y.selimbahcivan@gmail.com**
 
-<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/QTfX9Ejfra3ZmNxh6B" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/tech-code-coding-QTfX9Ejfra3ZmNxh6B">via GIPHY</a></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
