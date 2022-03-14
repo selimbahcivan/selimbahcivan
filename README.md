@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selimbahcivan&show_icons=true&locale=en" alt="selimbahcivan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selimbahcivan&" alt="selimbahcivan" /></p>
-![github](https://user-images.githubusercontent.com/88328791/158236010-b3ce24de-0664-46f5-bb44-c937c385d3b6.gif)
+![giphy](https://user-images.githubusercontent.com/88328791/158236010-b3ce24de-0664-46f5-bb44-c937c385d3b6.gif)
