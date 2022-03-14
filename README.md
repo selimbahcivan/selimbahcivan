@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Selim</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
-![giphy](https://user-images.githubusercontent.com/88328791/158236010-b3ce24de-0664-46f5-bb44-c937c385d3b6.gif)
+![github](https://user-images.githubusercontent.com/88328791/158236010-b3ce24de-0664-46f5-bb44-c937c385d3b6.gif)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=selimbahcivan&label=Profile%20views&color=0e75b6&style=flat" alt="selimbahcivan" /> </p>
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=selimbahcivan" alt="selimbahcivan" /></a> </p>
